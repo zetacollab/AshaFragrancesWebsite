@@ -73,6 +73,17 @@ body{
     color:#e48257;
     font-weight:bold;
   }
+
+ .mainBody{
+     display: flex;
+     flex-direction: column;
+     padding-left: 50px;
+     padding-right: 50px;
+     background-color: rgb(235, 233, 232);
+
+
+ }
+
   
   header a:hover{
     color:#cccccc;
